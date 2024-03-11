@@ -1,0 +1,4 @@
+= LuaPlus!
+
+This project was created to add features & syntax sugar to lua.
+The code fully transpiles to vanilla lua so no worry about compatibility!
